@@ -1,0 +1,4 @@
+chromeDriver=C:\\Users\\Lenovo\\Documents\\Programs\\Demoblaze\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\Lenovo\\Documents\\Programs\\Demoblaze\\src\\test\\resources\\binaries\\geckodriver.exe
+URL=https://www.demoblaze.com/
+ExcelPath=C:\\Users\\Lenovo\\Documents\\Programs\\Demoblaze\\src\\test\\resources\\XLSX\\TestData.xlsx
